@@ -21,7 +21,7 @@ namespace Project21032025.Repositories
             secretKey = _configuration.GetValue<string>("ApiSettings:Secret");
         }
 
-        public Task<LoginResponseDTO> LoginUser(LoginRequestDTO loginRequest)
+        public Task<User> LoginUser(LoginRequestDTO loginRequest)
         {
             throw new NotImplementedException();
         }

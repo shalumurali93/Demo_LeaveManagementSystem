@@ -22,5 +22,10 @@ namespace Project21032025.Services
             };
            return await _authRepository.RegisterUser(user);
         }
+
+        //public async Task<LoginResponseDTO> LoginUser(LoginRequestDTO loginRequestDTO)
+        //{
+
+        //}
     }
 }

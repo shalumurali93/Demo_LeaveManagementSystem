@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Udemy\\Project_21032025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|d:\\.net\\udemy\\project_21032025\\project21032025\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|solutionrelative:project21032025\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|d:\\.net\\udemy\\project_21032025\\project21032025\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|solutionrelative:project21032025\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|d:\\.net\\udemy\\project_21032025\\project21032025\\repositories\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|solutionrelative:project21032025\\repositories\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|d:\\.net\\udemy\\project_21032025\\project21032025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1506848-DA48-42EC-A4A1-5B0337DB761E}|Project21032025\\LeaveManagementSystem.csproj|solutionrelative:project21032025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Project21032025\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Project21032025\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:26:44.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Project21032025\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Project21032025\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:00:22.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Project21032025\\Services\\AuthService.cs",
+              "ToolTip": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Services\\AuthService.cs",
+              "RelativeToolTip": "Project21032025\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:57:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Program.cs",
+              "RelativeDocumentMoniker": "Project21032025\\Program.cs",
+              "ToolTip": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Program.cs",
+              "RelativeToolTip": "Project21032025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:42:24.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

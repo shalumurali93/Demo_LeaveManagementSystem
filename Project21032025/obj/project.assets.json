@@ -8586,9 +8586,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Project21032025.csproj",
-      "projectName": "Project21032025",
-      "projectPath": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\Project21032025.csproj",
+      "projectUniqueName": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\LeaveManagementSystem.csproj",
+      "projectName": "LeaveManagementSystem",
+      "projectPath": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\LeaveManagementSystem.csproj",
       "packagesPath": "C:\\Users\\shalu.murali\\.nuget\\packages\\",
       "outputPath": "D:\\.Net\\Udemy\\Project_21032025\\Project21032025\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Project21032025.Controllers.LeaveController",
+    "Method": "ApplyLeave",
+    "RelativePath": "api/Leave/addLeave",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaveRequest",
+        "Type": "Project21032025.Models.LeaveRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project21032025.Controllers.LeaveController",
+    "Method": "GetLeaves",
+    "RelativePath": "api/Leave/getAllLeaves",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
